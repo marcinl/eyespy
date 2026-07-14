@@ -1,0 +1,3 @@
+[submodule "known_faces"]
+	path = known_faces
+	url = git@github.com:marcinl/eyespy-private.git
